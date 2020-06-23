@@ -2,21 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="50f0cb51-9b31-4c26-92ba-bd4004fdd504" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/break-statement.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/continue-statement.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/do-while-loop.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/for-loop.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/funtions-parameter.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/funtions.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/goto-statement.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nested-loop.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/string-operator.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/switch-case.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ternary.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/while-loop.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/arrays/Array Count &amp; Sizeof Function.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/arrays/Associative-array.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/arrays/Foreach Loop with List.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/arrays/Foreach-Loop.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/arrays/Multidimensional-Array.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/arrays/array.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/funtions/Function Argument By Reference.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/funtions/Recursive Function.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/funtions/Variable Functions.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/funtions/functions-with-returning-value.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/New folder/13) Logical Operators.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/do-while-loop.php" beforeDir="false" afterPath="$PROJECT_DIR$/loops/do-while-loop.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/for-loop.php" beforeDir="false" afterPath="$PROJECT_DIR$/loops/for-loop.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/funtions-parameter.php" beforeDir="false" afterPath="$PROJECT_DIR$/funtions/funtions-parameter.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/funtions.php" beforeDir="false" afterPath="$PROJECT_DIR$/funtions/funtions.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nested-loop.php" beforeDir="false" afterPath="$PROJECT_DIR$/loops/nested-loop.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/while-loop.php" beforeDir="false" afterPath="$PROJECT_DIR$/loops/while-loop.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,7 +34,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1bnvjdEh6eXLzlNdhhv4TgqZ99a" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -43,8 +47,13 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="full.screen.before.presentation.mode" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/arrays" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\localhost\learnPHP\arrays" />
+    </key>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -84,6 +93,13 @@
       <workItem from="1592215660947" duration="2026000" />
       <workItem from="1592226271978" duration="4872000" />
       <workItem from="1592233320020" duration="5214000" />
+      <workItem from="1592293438011" duration="695000" />
+      <workItem from="1592315814818" duration="1805000" />
+      <workItem from="1592378431654" duration="678000" />
+      <workItem from="1592558199594" duration="268000" />
+      <workItem from="1592735746825" duration="6364000" />
+      <workItem from="1592807757181" duration="7020000" />
+      <workItem from="1592892704135" duration="5953000" />
     </task>
     <servers />
   </component>
@@ -95,10 +111,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="504" y="0" key="#com.intellij.ide.ui.customization.CustomizableActionsPanel.FindAvailableActionsDialog/0.0.1366.728/1366.0.1600.860@0.0.1366.728" timestamp="1592211220303" />
-    <state x="517" y="284" key="NewPhpFileDialog" timestamp="1592239219932">
+    <state x="517" y="284" key="NewPhpFileDialog" timestamp="1592894553874">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="517" y="284" key="NewPhpFileDialog/0.0.1366.728/1366.0.1600.860@0.0.1366.728" timestamp="1592239219932" />
+    <state x="517" y="284" key="NewPhpFileDialog/0.0.1366.728/1366.0.1600.860@0.0.1366.728" timestamp="1592894553874" />
     <state x="517" y="284" key="NewPhpFileDialog/0.0.1366.728@0.0.1366.728" timestamp="1589875808155" />
     <state x="189" y="11" width="998" height="708" key="SettingsEditor" timestamp="1592235100296">
       <screen x="0" y="0" width="1366" height="728" />
@@ -112,10 +128,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="563" y="306" key="com.intellij.ide.ui.customization.CustomizableActionsPanel$EditIconDialog/0.0.1366.728/1366.0.1600.860@0.0.1366.728" timestamp="1592211232573" />
-    <state x="359" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1592234322997">
+    <state x="359" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1592892707452">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="359" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728/1366.0.1600.860@0.0.1366.728" timestamp="1592234322997" />
+    <state x="359" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728/1366.0.1600.860@0.0.1366.728" timestamp="1592892707452" />
     <state x="359" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1592226660893" />
     <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1592211848363">
       <screen x="0" y="0" width="1366" height="728" />
